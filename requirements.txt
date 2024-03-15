@@ -1,0 +1,10 @@
+!pip install yfinance
+
+# The yfinance library offers Python users a seamless way to retrieve stock data from Yahoo Finance. Whether you're a beginner or a seasoned analyst, 
+# this library provides a range of functionalities to help you gather and analyze stock information
+
+import yfinance as yf
+import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
+from matplotlib.dates import DateFormatter
