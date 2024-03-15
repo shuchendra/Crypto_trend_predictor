@@ -12,5 +12,5 @@
 * Collect Market Data: We'll use APIs provided by cryptocurrency exchanges to fetch real-time market data, including prices, trading volume, and order book information.
 * Analyze Market Data: We'll use various technical analysis techniques to analyze the market data and identify potential trading signals.
 * Make Trading Decisions: Based on the analysis, the algorithm will make decisions on whether to buy, sell, or hold a particular cryptocurrency.
-
+#
 * Overall, the goal of this project is to automate the process of cryptocurrency trading, allowing users to potentially profit from market fluctuations without having to constantly monitor the market themselves. However, it's essential to remember that cryptocurrency trading carries inherent risks, and past performance is not indicative of future results.
