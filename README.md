@@ -1,5 +1,5 @@
 # Crypto_Trend_Predictor
-* Develop a Python program that can automatically make trading decisions for cryptocurrencies like Bitcoin, Ethereum, and others on various cryptocurrency exchanges. The goal is to create an algorithm that analyzes market data, such as price movements and trading volume, to make buying and selling decisions without human intervention.
+* The goal is to create an algorithm that analyzes market data, such as price movements and trading volume, to make buying and selling decisions without human intervention.
 
 * The algorithm will be based on certain trading strategies or indicators, such as moving averages to identify potential opportunities in the market. For example, it will suggest buying a cryptocurrency when its price exceeds a certain moving average and suggest selling it when it falls below another moving average.
 
